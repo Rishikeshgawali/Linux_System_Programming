@@ -31,7 +31,6 @@ Ensure that you have the following tools installed:
 ### Repository Link
 https://github.com/Rishikeshgawali/LSP_Assignments
 
-
 ### Author
 **RISHIKESH BHARAT GAWALI**
 
